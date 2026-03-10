@@ -1,2 +1,1 @@
-# lite-ai-coding
-Lite AI Coding Service - ¥7.9/month - MiniMax-M2.5
+# Lite AI Coding Service\n\n## Affordable AI Coding Assistant - Only ¥7.9/month\n\n### Features\n- MiniMax-M2.5 model\n- 18,000 requests/month\n- First month: ¥7.9 (then ¥20/month)\n- Compare to Claude Pro at 0/month\n\n### Why Choose Lite?\n- Cost-effective AI coding assistant\n- Perfect for developers on a budget\n- Reliable performance with MiniMax models\n\n### Get Started\nSign up today and start coding with AI assistance!\n\n---\n*This is a promotional repository for the Lite AI Coding Service.*
